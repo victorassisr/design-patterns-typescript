@@ -2,11 +2,11 @@
 Repo to save my studies about design patterns using typescript.
 
 ## Singleton
-    Go to the folder:
+   Go to the folder:
     `cd Singleton`
 
-    Transpile:
+   Transpile:
     `tsc Singleton.ts`
     
-    Run:
+   Run:
     `node Singleton.js`
