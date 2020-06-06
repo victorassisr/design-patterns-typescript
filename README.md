@@ -1,4 +1,4 @@
-# design-patterns-typescript
+# Design Patterns with Typescript
 Repo to save my studies about design patterns using typescript.
 
 ## Singleton
