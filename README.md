@@ -20,3 +20,13 @@ Repo to save my studies about design patterns using typescript.
     
    Run:
     `node Pizza.js`
+
+## Strategy
+   Go to the folder:
+    `cd Strategy`
+
+   Transpile:
+    `tsc Strategy.ts`
+    
+   Run:
+    `node Strategy.js`
