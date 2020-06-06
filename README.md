@@ -10,3 +10,13 @@ Repo to save my studies about design patterns using typescript.
     
    Run:
     `node Singleton.js`
+
+## Factory
+   Go to the folder:
+    `cd Factory`
+
+   Transpile:
+    `tsc Pizza.ts`
+    
+   Run:
+    `node Pizza.js`
