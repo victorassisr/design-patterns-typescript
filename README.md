@@ -40,3 +40,13 @@ Repo to save my studies about design patterns using typescript.
     
    Run:
     `node Iterator.js`
+
+## Observer
+   Go to the folder:
+    `cd Observer`
+
+   Transpile:
+    `tsc Observer.ts`
+    
+   Run:
+    `node Observer.js`
