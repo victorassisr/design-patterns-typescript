@@ -30,3 +30,13 @@ Repo to save my studies about design patterns using typescript.
     
    Run:
     `node Strategy.js`
+
+## Iterator
+   Go to the folder:
+    `cd Iterator`
+
+   Transpile:
+    `tsc Iterator.ts`
+    
+   Run:
+    `node Iterator.js`
